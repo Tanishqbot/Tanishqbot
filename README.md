@@ -1,11 +1,252 @@
 <h1 align="center">Hi 👋, I'm Tanishq Tembhurne</h1>
-<h3 align="center">I'm a Final year student passionate about Generative AI. I enjoy exploring the field of Generative AI and Machine Learning by making exciting projects. What drives me most is the opportunity to create innovative models that can help automate everyday tasks, making life simpler and more efficient.</h3>
 
-- 🔭 I’m currently working on **Vector Databases and Graph Databases to make a Legal Chatbot System.**
+<h3 align="center">
+AI/ML Engineer • Generative AI • Agentic AI • LLMs • SRE
+</h3>
 
-- 🌱 I’m currently learning **the world of AI agents, systems designed to autonomously perform complex tasks by interacting with the environment and collaborating with other agents or humans. While I’m still in the learning phase, I’m excited to delve deeper into: Understanding multi-agent systems: How agents can collaborate to solve problems efficiently. Integrating LLMs with tools: Learning how to equip agents with real-world capabilities using libraries like LangChain and Hugging Face. Practical Applications: Exploring how AI agents can be used for task automation, decision-making, and simplifying workflows.**
+<p align="center">
+Building intelligent systems that don't just generate responses — they reason, use tools, interact with systems, and solve real-world problems.
+</p>
 
-- 📫 How to reach me **tanishqwork1013@gmail.com**
+---
+
+## 🚀 About Me
+
+I'm an **AI/ML Engineer with professional experience in SRE and cloud engineering**, currently working with production systems while actively building AI-powered solutions.
+
+My journey started with Machine Learning and Deep Learning and gradually evolved into **Generative AI, RAG, LLM applications, AI Agents, and Agentic Systems**.
+
+What makes my profile different is that I don't look at AI only from a model-building perspective.
+
+I enjoy working across the entire system:
+
+**Model → Retrieval → Reasoning → Tools → APIs → Cloud → Observability → Production**
+
+I'm particularly interested in building AI systems that can operate reliably in real-world environments.
+
+---
+
+## 🤖 What I'm Building
+
+### 🧠 Agentic AI
+
+I'm actively building AI agents capable of:
+
+- Reasoning over complex tasks
+- Using external tools
+- Calling APIs
+- Retrieving information from knowledge bases
+- Maintaining context and memory
+- Executing multi-step workflows
+- Collaborating with other agents
+- Interacting with real-world systems
+
+Technologies I work with include:
+
+`LangGraph` `LangChain` `LlamaIndex` `CrewAI` `LLMs` `SLMs`
+
+---
+
+### 🔎 RAG & Knowledge Systems
+
+I'm particularly interested in making LLM applications more reliable through better retrieval.
+
+My work includes:
+
+- Vector databases
+- Embeddings
+- Semantic search
+- Hybrid retrieval
+- Metadata filtering
+- Reranking
+- Knowledge graphs
+- Graph databases
+- Retrieval evaluation
+- Conversational memory
+
+Technologies:
+
+`FAISS` `ChromaDB` `Neo4j` `Mosaic AI`
+
+---
+
+### ☁️ AI + Production Engineering
+
+My professional experience is in **SRE and cloud production environments**, which gives me a strong interest in deploying and operating AI systems beyond the prototype stage.
+
+I work with:
+
+- Azure
+- Azure Monitor
+- Application Insights
+- Log Analytics
+- KQL
+- Logic Apps
+- Jira automation
+- Observability
+- Incident response
+- Production troubleshooting
+
+I'm especially interested in:
+
+> **How do we build AI systems that are reliable, observable, scalable and actually useful in production?**
+
+---
+
+# 🔥 Featured Projects
+
+### 🛠️ AI SRE Incident Response Agent
+
+An AI-powered SRE system designed to investigate production incidents automatically.
+
+The system can:
+
+- Detect production alerts
+- Investigate Azure telemetry
+- Query Log Analytics using KQL
+- Analyze Application Insights
+- Correlate logs, metrics and traces
+- Investigate deployment/activity information
+- Generate detailed Root Cause Analysis
+- Recommend remediation steps
+- Provide progressive incident updates
+- Integrate with Jira
+- Escalate unresolved incidents based on SLA
+
+**Focus:** Agentic AI • Tool Calling • RAG • Azure • Observability • Incident Automation
+
+---
+
+### ⚖️ Legal-Aid Conversational AI
+
+A conversational legal assistance system built around retrieval-augmented generation.
+
+The system explores:
+
+- Document ingestion
+- Vector search
+- Knowledge graphs
+- Hybrid retrieval
+- Conversational memory
+- Multi-turn conversations
+- Retrieval quality
+- Hallucination reduction
+
+**Stack:** LangChain • LangGraph • LlamaIndex • FAISS • Neo4j • LLMs • Streamlit
+
+---
+
+### 👨‍💼 AI Virtual Employee
+
+A real-time multimodal AI employee capable of participating in online meetings.
+
+The system explores:
+
+- Real-time speech interaction
+- LLM/SLM-based reasoning
+- Knowledge retrieval
+- Long-term and short-term memory
+- Browser automation
+- Screen sharing and presentations
+- Meeting interaction
+- Question answering
+- Action-item extraction
+- Automated meeting minutes
+
+**Stack:** Python • Node.js • LLMs • SLMs • RAG • Speech AI • Browser Automation
+
+---
+
+### 📄 AI Resume Ranker
+
+An NLP-based system designed to evaluate and rank resumes against job requirements.
+
+Explores:
+
+- Resume parsing
+- Semantic similarity
+- Skill extraction
+- Embeddings
+- Candidate ranking
+- LLM-based evaluation
+- Structured + semantic matching
+
+**Focus:** NLP • Embeddings • LLMs • Ranking Systems • Information Retrieval
+
+---
+
+# 🧰 Tech Stack
+
+### Programming
+`Python` `Java` `Node.JS` `SQL Alchemy`
+
+### AI / Machine Learning
+`PyTorch` `Machine Learning` `Deep Learning` `NLP` `Computer Vision`
+
+### Generative AI
+`LLMs` `SLMs` `Prompt Engineering` `Fine-Tuning` `Model Evaluation`
+
+### Agentic AI
+`LangGraph` `LangChain` `LlamaIndex` `CrewAI`
+
+### RAG & Retrieval
+`RAG` `Embeddings` `Semantic Search` `Hybrid Retrieval` `Reranking`
+
+### Databases
+`graph databases` `Vector Databases` `Redis`
+
+### Cloud & Production
+`Microsoft Azure` `AWS` `GCP` 
+
+### DevOps / Observability
+`Docker` `Prometheus` `Grafana` `OpenTelemetry` `KQL` `Logic Apps`
+
+### Data
+`Pandas` `NumPy` `Matplotlib` `Power BI`
+
+---
+
+# 🧠 Areas I'm Deeply Interested In
+
+- Agentic AI
+- Autonomous AI Systems
+- Multi-Agent Systems
+- LLM Applications
+- Small Language Models
+- Retrieval-Augmented Generation
+- AI Memory
+- Tool Calling
+- Model Fine-Tuning
+- LLM Evaluation
+- AI Inference Optimization
+- Multimodal AI
+- AI Observability
+- Production AI Systems
+
+---
+
+# 🏗️ My Engineering Philosophy
+
+I believe the future of AI isn't just about making models smarter.
+
+It's about building systems that can:
+
+```
+Understand
+   ↓
+Reason
+   ↓
+Retrieve
+   ↓
+Use Tools
+   ↓
+Take Action
+   ↓
+Observe Results
+   ↓
+Learn / Improve
+
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
